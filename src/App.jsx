@@ -19,9 +19,9 @@ function App() {
   return (
     <>
     <nav>
-      <NavLink to='/signup'>Signup</NavLink>
-      <NavLink to='/dash'>Profile</NavLink>
-      <NavLink to='/login'>Log-in</NavLink>
+      <NavLink to='/signup'>Signup </NavLink>
+      <NavLink to='/dash'>Profile </NavLink>
+      <NavLink to='/login'>Log-in </NavLink>
     </nav>
 
    
